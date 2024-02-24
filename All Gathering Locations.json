@@ -11594,24 +11594,7 @@ UPPER MOLTEN HEIGHTS v
       */
 	  
     },
-    {
-	  "name": "[2] Dernic [Lv.110]",
-	  "color": "#aa00aa",
-	  "icon": "mining",
-	  "visibility": "always",
-	  "location": {
-	    "x": 766, 
-	    "y": 108, 
-	    "z": -473 
-	  }
 
-      /*
-      Nodes:
-	    765, 109, -472
-	    767, 109, -474
-      */
-	  
-    },
 
 //Ingredient Gathering Locations
 
